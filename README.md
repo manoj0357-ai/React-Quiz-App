@@ -13,7 +13,7 @@ code: "npm install"
 ### Start Development Server:
 code: "npm start"
 Runs the app in the development mode.
-open https://localhost:3000 to view it in your browser
+open https://react-quiz-app-lac-six.vercel.app/ to view it in your browser
 
 
 ### usage instruction
